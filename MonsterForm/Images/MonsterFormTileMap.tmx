@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="5" height="5" tilewidth="187" tileheight="95">
+ <tileset firstgid="1" name="Untitled_MonsterForm" tilewidth="185" tileheight="94">
+  <image source="Untitled_MonsterForm.png" width="512" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="canPlotGrass" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="GroundLayer" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKQxBgAFeAAa
+  </data>
+ </layer>
+ <objectgroup name="Object" width="5" height="5"/>
+</map>
